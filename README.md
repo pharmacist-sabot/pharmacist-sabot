@@ -52,10 +52,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pharmacist-sabot&show_icons=true&theme=dracula&rank_icon=github" alt="pharmacist-sabot"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharmacist-sabot&layout=compact&theme=dracula" alt="pharmacist-sabot" />
-</p>
-
----
