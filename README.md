@@ -1,54 +1,156 @@
-<h1 align="center">Suradet Pratomsak</h1>
-<p align="center">
+<div align="center">
+  
+# Hi there, I'm Suradet Pratomsak 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Pharmacist+%2B+Full-Stack+Developer;Healthcare+Technology+Enthusiast;Building+Digital+Solutions+for+Healthcare;Vue.js+%7C+Astro+%7C+TypeScript+%7C+Python)](https://github.com/pharmacist-sabot)
+
+<p>
   <a href="https://github.com/pharmacist-sabot">
-    <img src="https://img.shields.io/badge/POSITION-Pharmacist%20%26%20Developer-blue?style=flat-square" alt="Position">
+    <img src="https://img.shields.io/badge/ROLE-Pharmacist%20%26%20Developer-3B82F6?style=for-the-badge&logo=github" alt="Role">
   </a>
   <a href="https://github.com/pharmacist-sabot">
-    <img src="https://img.shields.io/badge/SPECIALTY-Vue.js%20%7C%20Healthcare%20Tech-green?style=flat-square" alt="Specialty">
+    <img src="https://img.shields.io/badge/FOCUS-Healthcare%20Tech-10B981?style=for-the-badge&logo=medtronic&logoColor=white" alt="Focus">
+  </a>
+  <a href="https://github.com/pharmacist-sabot?tab=followers">
+    <img src="https://img.shields.io/github/followers/pharmacist-sabot?label=Followers&style=for-the-badge&logo=github" alt="Followers">
   </a>
 </p>
 
-<div align="center">
-  "Bridging the gap between healthcare and technology, one line of code at a time."
+<img src="https://komarev.com/ghpvc/?username=pharmacist-sabot&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
-  </a>
-  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+## 🧑‍⚕️ About Me
+
+> *"Bridging the gap between healthcare and technology, one line of code at a time."*
+
+I'm a **licensed Pharmacist** with a deep passion for **software development**. I combine my pharmaceutical knowledge with modern web technologies to create innovative solutions that improve healthcare workflows and patient outcomes.
+
+- 🏥 Working at the intersection of **pharmacy** and **technology**
+- 💻 Specializing in **Vue.js ecosystem** and **healthcare applications**
+- 🌱 Currently exploring **Rust**, **Haskell**, and **functional programming**
+- 🎯 Goal: Making healthcare more accessible through technology
+- ⚡ Fun fact: I debug code faster than I count pills! 💊
 
 ---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### State Management & Styling
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Systems Programming
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=pharmacist-sabot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharmacist-sabot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pharmacist-sabot&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=38bdae&sideNums=70a5fd&currStreakLabel=38bdae&sideLabels=70a5fd&dates=787c99)](https://github.com/pharmacist-sabot)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=pharmacist-sabot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/pharmacist-sabot)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pharmacist-sabot&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64)](https://github.com/pharmacist-sabot)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![High Alert Drugs](https://github-readme-stats.vercel.app/api/pin/?username=pharmacist-sabot&repo=high-alert-drugs-app&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/pharmacist-sabot/high-alert-drugs-app)
+[![Herbs App](https://github-readme-stats.vercel.app/api/pin/?username=pharmacist-sabot&repo=herbs-app&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/pharmacist-sabot/herbs-app)
+
+[![Drug Lists](https://github-readme-stats.vercel.app/api/pin/?username=pharmacist-sabot&repo=sabot-drug-lists&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/pharmacist-sabot/sabot-drug-lists)
+[![Med Support Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=pharmacist-sabot&repo=med-support-dashboard-app&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/pharmacist-sabot/med-support-dashboard-app)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentFocus = {
+    learning: ["Rust Systems Programming", "Functional Programming with Haskell"],
+    building: ["Healthcare Management Tools", "Pharmacy Workflow Applications"],
+    exploring: ["AI in Healthcare", "Medical Data Analytics"],
+    reading: ["Clean Code", "System Design Patterns"]
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pharmacist-sabot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💊 *"Code is like medicine – the right dose at the right time can change everything."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
