@@ -68,23 +68,6 @@ I'm a **licensed Pharmacist** with a deep passion for **software development**. 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=pharmacist-sabot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharmacist-sabot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=pharmacist-sabot&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=38bdae&sideNums=70a5fd&currStreakLabel=38bdae&sideLabels=70a5fd&dates=787c99)](https://github.com/pharmacist-sabot)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
