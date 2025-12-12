@@ -68,16 +68,6 @@ I'm a **licensed Pharmacist** with a deep passion for **software development**. 
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pharmacist-sabot&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64)](https://github.com/pharmacist-sabot)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```javascript
